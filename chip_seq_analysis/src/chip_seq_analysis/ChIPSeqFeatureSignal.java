@@ -31,7 +31,7 @@ public class ChIPSeqFeatureSignal {
 		int shift = Integer.parseInt(args[4]);
 		
 		// Set the span
-		int span = Integer.parseInt(args[6]);
+		int span = Integer.parseInt(args[5]);
 		
 		/////////////////////////////////////////////////////////////////////////////
 					
