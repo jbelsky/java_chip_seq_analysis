@@ -1,4 +1,4 @@
-package get_mnase_density;
+package mnase_seq_analysis;
 
 import java.io.BufferedWriter;
 import java.io.File;
