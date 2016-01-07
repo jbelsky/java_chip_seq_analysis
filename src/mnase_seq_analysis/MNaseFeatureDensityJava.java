@@ -10,8 +10,8 @@ import net.sf.samtools.SAMRecord;
 import net.sf.samtools.SAMRecordIterator;
 import net.sf.samtools.SAMFileReader;
 
-import jbfunctions.DensityEst;
-import jbfunctions.TF;
+import genomics_functions.DensityEst;
+import genomics_functions.TF;
 
 public class MNaseFeatureDensityJava {
 

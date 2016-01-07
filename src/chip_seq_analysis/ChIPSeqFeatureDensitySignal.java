@@ -5,8 +5,8 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
 
-import jbfunctions.DensityEst;
-import jbfunctions.TF;
+import genomics_functions.DensityEst;
+import genomics_functions.TF;
 
 import net.sf.samtools.SAMFileReader;
 

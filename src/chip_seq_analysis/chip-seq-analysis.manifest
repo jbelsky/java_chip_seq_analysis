@@ -1,2 +1,0 @@
-Class-Path: /data/illumina_pipeline/scripts/java_scripts/jar_files/sam-1.67.jar /data/illumina_pipeline/scripts/java_scripts/jar_files/jbfunctions.jar
-Main-Class: chip_seq_analysis/CMDLineMain

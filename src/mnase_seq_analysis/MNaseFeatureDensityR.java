@@ -7,8 +7,8 @@ import net.sf.samtools.SAMRecord;
 import net.sf.samtools.SAMRecordIterator;
 import net.sf.samtools.SAMFileReader;
 
-import jbfunctions.BAMInput;
-import jbfunctions.DensityEst;
+import genomics_functions.BAMInput;
+import genomics_functions.DensityEst;
 
 public class MNaseFeatureDensityR {
 
